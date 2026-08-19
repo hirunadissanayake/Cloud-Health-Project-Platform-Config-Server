@@ -78,5 +78,5 @@ export CONFIG_GIT_BRANCH=main
 | Property | Value |
 |---|---|
 | Student | Hiruna Dissanayake |
-| Student number | `24171104` |
+| Student number | `241711024` |
 | GCP project | `cloud-health-506015-hiruna` |
